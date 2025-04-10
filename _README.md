@@ -1,5 +1,5 @@
 # stock-ticker-lists
-This public repository contains list of stock symbols in csv files:
+This public repository contains lists of stock symbols in csv files:
 > SP500_tickers_20250410.csv
 
 > QQQ_tickers_20250410.csv
